@@ -8,6 +8,11 @@ body {
 header {
   font-size: 22px;
   padding: 20px;
+  background-image: url("/Users/laura/Desktop/GitHub/AI-Book-Generator-/src/books.jpg");
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  border-radius: 5px;
 }
 footer {
   padding: 10px;
