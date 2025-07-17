@@ -17,7 +17,7 @@ footer {
 
 .form-container {
   background-color: #565448;
-  width: 80%;
+  width: 90%;
   margin: 0 auto;
   padding: 20px;
   border-radius: 15px;
@@ -25,7 +25,7 @@ footer {
   margin-bottom: 30px;
 }
 .prompt {
-  width: 65%;
+  width: 60%;
   padding: 10px;
   border-radius: 15px;
   border: 1px solid #565448;
@@ -33,10 +33,10 @@ footer {
   font-size: 16px;
 }
 .submit-button {
-  margin-left: 10px;
+  margin-left: 5px;
   border-radius: 5px;
   padding: 8px;
-  width: 25%;
+  width: 150px;
   background-color: #11110d;
   color: #fffaf3;
   font-size: 16px;
