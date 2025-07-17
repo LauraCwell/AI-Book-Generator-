@@ -12,6 +12,8 @@
       href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap"
       rel="stylesheet"
     />
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js"></script>
+    <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
   </head>
   <body>
     <div>
@@ -23,7 +25,7 @@
       </header>
       <main>
         <div id="form-container" class="form-container">
-          <form>
+          <form id="user-form">
             <input
               type="text"
               placeholder="Enter a Genre..."
@@ -35,11 +37,7 @@
             <input type="submit" class="submit-button" />
           </form>
         </div>
-        <div id="book-container">
-          <div>1. BOOK RECOMMENDATION HERE</div>
-          <div>2. BOOK RECOMMENDATION HERE</div>
-          <div>3. BOOK RECOMMENDATION HERE</div>
-        </div>
+        <div id="book-recommendations" class="recommendations hidden"></div>
       </main>
       <footer>
         This AI project was coded by
