@@ -25,7 +25,7 @@ footer {
   margin-bottom: 30px;
 }
 .prompt {
-  width: 70%;
+  width: 60%;
   padding: 10px;
   border-radius: 15px;
   border: 1px solid #565448;
@@ -37,7 +37,7 @@ footer {
   margin-top: 5px;
   border-radius: 5px;
   padding: 8px;
-  width: 150px;
+  width: 120px;
   background-color: #11110d;
   color: #fffaf3;
   font-size: 16px;
