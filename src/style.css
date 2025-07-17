@@ -25,7 +25,7 @@ footer {
   margin-bottom: 30px;
 }
 .prompt {
-  width: 60%;
+  width: 70%;
   padding: 10px;
   border-radius: 15px;
   border: 1px solid #565448;
@@ -34,12 +34,14 @@ footer {
 }
 .submit-button {
   margin-left: 5px;
+  margin-top: 5px;
   border-radius: 5px;
   padding: 8px;
   width: 150px;
   background-color: #11110d;
   color: #fffaf3;
   font-size: 16px;
+  border: 1px solid black;
 }
 .recommendations {
   padding: 20px;
